@@ -1,1 +1,0 @@
-# tutor-contrib-myplugin
