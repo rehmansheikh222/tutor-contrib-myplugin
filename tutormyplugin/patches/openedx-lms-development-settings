@@ -23,3 +23,4 @@ MFE_CONFIG["ENABLE_DYNAMIC_REGISTRATION_FIELDS"] = "true"
 REGISTRATION_EXTRA_FIELDS["country"] = "required"
 REGISTRATION_EXTRA_FIELDS["terms_of_service"] = "required"
 MFE_CONFIG["TOS_LINK"] = "https://edly.io"
+FEATURES["MY_CUSTOM_TOPICS_TOGGLE"] = True
